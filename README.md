@@ -35,7 +35,7 @@ Folder_2        |   Folder_2        |   ├─ lb2.txt      |   ├─ bda.txt
 └─ lb4.txt      |   └─ das.txt      |
 ```
 
-You got the idea.
+You get the idea.
 
 ```python
 from data_transform import Kitti2Yolo

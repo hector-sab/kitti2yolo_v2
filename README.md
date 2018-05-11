@@ -51,3 +51,8 @@ conv.convert(out_dir=out_folder)
 
 # To Do
 Add saving support for multiple class. Right now it saves all the images with the class label 15, which indicates a person. It's not hard, it actually already reads the class on the file, it just need to compare it to some list containing the right class and assign it.
+
+___________________________
+
+Adaptation from https://github.com/pmkalshetti/object_detection/blob/master/src/write_data_to_TFRecords.py . 
+(I wasn't able to use tfrecords correctly :P)
